@@ -1,9 +1,6 @@
 ---
-title: "BL5122: Current Issues in Biologging"
-subtitle: "Analysing tracking data in R"
-author: "James Grecian"
-date: "21/02/2020"
-output: md_document:
+output:
+  md_document:
   variant: markdown_github
 ---
 
