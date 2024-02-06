@@ -9,5 +9,7 @@ developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.re
 This repo contains code for the ‘Analysing animal tracking data in R’
 practical that forms part of BL5122: Current Issues in Biologging.
 
-Please download the practical-guide.html file by clicking
+Please download the practical-guide.html file by right clicking
 [here](https://raw.githubusercontent.com/jamesgrecian/BL5122-dev/master/practical-guide.html)
+and selecting “Download Linked File As…” and ensuring you save it as
+html.
