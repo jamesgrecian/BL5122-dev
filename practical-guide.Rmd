@@ -9,6 +9,8 @@ output:
     toc_float: true
     number_sections: true
     theme: cosmo
+    includes:
+      after_body: footer.html
 ---
 
 
@@ -24,6 +26,11 @@ output:
     background-color: #698b69;
     }
 </style>
+
+
+```{r setup, include = F}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
 
 ***
 ## Before we begin
@@ -839,7 +846,3 @@ You have:
 6. Performed a preliminary statistical analysis to better understand the drivers of animal movement  
 
 This has shown that the seals moved northward, with some animals travelling as far as Baffin Bay and others crossing the Labrador Sea to Greenland. Animals performed both directed and undirected movements during this time. Our preliminary analysis did not reveal a strong link with bathymetry; animals performed both directed and undirected movement in shallower water, but only performed directed movements when travelling over deep water.
-
-***
-
-
