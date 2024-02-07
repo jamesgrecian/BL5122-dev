@@ -102,12 +102,11 @@ install.packages(
     "marmap",
     "patchwork",
     "raster",
-    "rgdal"
     "rnaturalearth",
     "rnaturalearthdata",
     "sf",
     "tidyverse",
-    "viridis",
+    "viridis"
     )
   )
 ```
